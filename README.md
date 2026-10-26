@@ -24,3 +24,4 @@
 - [10/06 (Real Data)](reports/10-06-Real-Data/README.md)
 - [10/09 (Prev and Abund)](reports/10-09-Prev-and-Abund/README.md)
 - [10/13 (RINT and Dist)](reports/10-13-RINT-and-Dist/README.md)
+- [10/20 (GOLD Dataset)](reports/10-20-GOLD-Dataset/README.md)
