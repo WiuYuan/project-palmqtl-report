@@ -25,3 +25,4 @@
 - [10/09 (Prev and Abund)](reports/10-09-Prev-and-Abund/README.md)
 - [10/13 (RINT and Dist)](reports/10-13-RINT-and-Dist/README.md)
 - [10/20 (GOLD Dataset)](reports/10-20-GOLD-Dataset/README.md)
+- [10/27 (Bimodal)](reports/10-27-Bimodal/README.md)
