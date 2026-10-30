@@ -26,3 +26,4 @@
 - [10/13 (RINT and Dist)](reports/10-13-RINT-and-Dist/README.md)
 - [10/20 (GOLD Dataset)](reports/10-20-GOLD-Dataset/README.md)
 - [10/27 (Bimodal)](reports/10-27-Bimodal/README.md)
+- [10/30 (Bimodal Results)](reports/10-30-Bimodal-Results/README.md)
