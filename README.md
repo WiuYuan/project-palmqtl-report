@@ -27,3 +27,5 @@
 - [10/20 (GOLD Dataset)](reports/10-20-GOLD-Dataset/README.md)
 - [10/27 (Bimodal)](reports/10-27-Bimodal/README.md)
 - [10/30 (Bimodal Results)](reports/10-30-Bimodal-Results/README.md)
+- [11/03 (Q-Q plot of Bimodal)](reports/11-03-Q-Q-plot-of-Bimodal/README.md)
+- [11/10 (Community-Level)](reports/11-10-Community-Level/README.md)
