@@ -30,3 +30,5 @@
 - [11/03 (Q-Q plot of Bimodal)](reports/11-03-Q-Q-plot-of-Bimodal/README.md)
 - [11/10 (Community-Level)](reports/11-10-Community-Level/README.md)
 - [11/13 (Binomial Test)](reports/11-13-Binomial-Test/README.md)
+- [11/17 (ASSET)](reports/11-17-ASSET/README.md)
+- [11/20 (Empirical SPA)](reports/11-20-Empirical-SPA/README.md)

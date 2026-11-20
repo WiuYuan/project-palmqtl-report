@@ -6,7 +6,7 @@ Last week I mainly tried to think about how to improve test power under the comm
 
 Supplement: ASSET originally can handle only about 10 phenotypes in a genome-wide setting, but ASSET fast can support up to 116. The reason is that, for example, we can select only phenotypes with p-value below 0.05 for ASSET. In this way, after screening 100 phenotypes, on average only 5 remain. We only need to correct the p-value by dividing it by 0.05 after the final calculation completes the phenotypes' p-values. However, this method is currently only a possible direction and is not necessarily effective.
 
-## 2. Binomial Test under Cheeting Way
+## 2. Binomial Test under Cheating Way
 
 Let's construct the simplest case to examine the power of the Binomial Test.
 
