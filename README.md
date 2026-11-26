@@ -32,3 +32,4 @@
 - [11/13 (Binomial Test)](reports/11-13-Binomial-Test/README.md)
 - [11/17 (ASSET)](reports/11-17-ASSET/README.md)
 - [11/20 (Empirical SPA)](reports/11-20-Empirical-SPA/README.md)
+- [11/24 (Large-scale Experiments)](reports/11-24-Large-scale-Experiments/README.md)

@@ -105,6 +105,13 @@ We then examine whether correcting for covariates and the median has an impact.
 ![](assets/chr15info2.png)
 ![](assets/chr15info3.png)
 
+![](assets/chr15info4.png)
+
+![](assets/chr15info5.png)
+
 It can be seen that the median does not deviate from zero, and not correcting for covariates reduces the p-value to some extent. Taken together, it is hard to say whether this is a real effect locus.
 
 ## 4. Future
+- binomial related
+- palm with spa on positive/all part
+- nb/palm qqplot under spa/normal
